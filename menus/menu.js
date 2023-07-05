@@ -152,7 +152,6 @@ return `
 ╎✰ۣۜۜ͜͡🎠 ${prefix}listavip
 ╎✰ۣۜۜ͜͡🎠 ${prefix}lideres
 ╎✰ۣۜۜ͜͡🎠 ${prefix}rafa "Pergunte"
-╎✰ۣۜۜ͜͡🎠 ${prefix}sakura "fale algo"
 ╎✰ۣۜۜ͜͡🎠 ${prefix}tempo "Sao paulo"
 ╎✰ۣۜۜ͜͡🎠 ${prefix}marqueme
 ╎✰ۣۜۜ͜͡🎠 ${prefix}correio "Nmr"/MSG
@@ -170,9 +169,6 @@ return `
 ╎✰ۣۜۜ͜͡🎠 ${prefix}Calcular "2+2"
 ╎✰ۣۜۜ͜͡🎠 ${prefix}Bot 
 ╎✰ۣۜۜ͜͡🎠 ${prefix}dono
-╎✰ۣۜۜ͜͡🎠 ${prefix}criador
-╎✰ۣۜۜ͜͡🎠 ${prefix}alugar
-╎✰ۣۜۜ͜͡🎠 ${prefix}pix 
 ╰═• ೋ✧๑🩸๑✧ೋ •═╯`
 }
 
